@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "SK6812MINI-E") (type "KiCad") (uri "${KIPRJMOD}/libraries/SK6812MINI-E.kicad_sym") (options "") (descr ""))
 	(lib (name "XIAO RP2040") (type "KiCad") (uri "${KIPRJMOD}/libraries/XIAO_RP2040.kicad_sym") (options "") (descr ""))
+	(lib (name "OLED-0.91-128x32") (type "KiCad") (uri "${KIPRJMOD}/libraries/SSD1306_OLED-0.91-128x32.kicad_sym") (options "") (descr ""))
 )
